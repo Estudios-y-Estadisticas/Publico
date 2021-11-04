@@ -254,3 +254,16 @@ Este sistema permite muchas más cosas, estas son las básicas.
 ### Importante
 
 Si hago cambios y no ejecuto el *Commit* y *Push* y otro usuario hace cambios y si hace el update en Github se podrían crear conflictos.
+
+### Actualizar cambios de terceros
+
+Si alguien hizo cambios y quiero descargarlos para que mi repositorio local esté actualizado se debe hacer un *Fetch* en Github Desktop.
+
+![image-20211104114322302](img/image-20211104114322302.png)
+
+Si hay cambios el botón se modifica y muestra que está disponible un *Pull* para descargar los cambios.
+
+![image-20211104114433559](img/image-20211104114433559.png)
+
+De esta forma tendremos siempre actualizado el repositorio local.
+

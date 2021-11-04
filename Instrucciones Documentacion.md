@@ -197,7 +197,9 @@ El índice o tabla de contenidos que está al costado izquierdo de *Typora* se p
 
 ---
 
-Y etc. Cualquier consulta hay muchisima ayuda en Internet
+Y etc. Cualquier consulta hay muchisima ayuda en Internet. 
+
+Por ejemplo este es un diagrama en Mermaid, que github aun no implementa pero en el documento se puede visualizar. (si el proxy lo permite)
 
 ~~~sequence
 ```sequence
@@ -209,19 +211,21 @@ Bob-->Alice: I am good thanks!
 
 
 
+#### Flujo de trabajo
 
+En el día a día lo que hacemos es trabajar en la carpeta local en dónde clonamos el repositorio y vamos actualizando mediante *commit* y *push* el repositorio en Github.
 
-
+La estructura de la carpeta será la misma que en Github y para hacer links también se debe seguir la misma estructura.
 
 ### Paso 5: Commit y Push
 
-Ahora que ya creamos o editamos un documento en Markdown hay que subirlo a github. Cuando editemos veremos que esos cambios se registran en **github desktop** con color rojo y con verde las adiciones.
+Ahora que ya creamos o editamos un documento en *Markdown* hay que subirlo a github. Cuando se edite un documento veremos que esos cambios se registran en **github desktop** con color rojo y con verde si son adiciones.
 
-También indica si se agregaron archivos se modificaron en la barra latera.
+En la barra lateral se indica si se agregaron modificaron o agregaron archivos. 
 
 ![image-20211103165229624](img/image-20211103165229624.png)
 
-Si ya estamos listos es hora de ejecutar los procedimientos de control de cambios.
+Si ya estamos listos con las ediciones, todo guardado y revisado es hora de ejecutar los procedimientos de control de cambios. Estos son estrictos en su ejecución por el diseño del sistema, así que no se pueden saltar.
 
 #### Commit
 
@@ -229,19 +233,29 @@ Este paso se realiza abajo a la izquierda y consiste en crear un **Título** y u
 
 ![image-20211103165520914](img/image-20211103165520914.png)
 
-Al hacer el commit, github desktop archivará la existencia de las modificaciones realizadas
+Al hacer el commit, github desktop archivará la existencia de las modificaciones realizadas en el repositorio local.
 
 #### Push
 
-Lo siguiente es enviar nuestro Commit a la linea de edición que existe en el tiempo, basta con apretar el siguiente botón en Github desktop
+Lo siguiente es enviar nuestro *Commit* (con los cambios) a la linea de edición de Github, con el botón de la imagen de abajo.
 
 ![image-20211103165915161](img/image-20211103165915161.png)
 
-Finalmente si ya no quedan cambios a registrar tendremos que hacer el push a la linea de edició que está en GitHub, en la nube
+Si fuera necesario o no se hizo el push o algo pasó el boton de **Push orign** estará activado.
 
 ![image-20211103170041121](img/image-20211103170041121.png)
 
-Basta con hacer clic en **Push origin**. Ya en la página de Github podremos acceder a las versiones antiguas seleccionando por **Commit**
+Basta con hacer clic en **Push origin** y los cambios se verán en la página de Github, en dónde podremos acceder a las versiones antiguas seleccionando por **Commit**
 
 ![image-20211103170344664](img/image-20211103170344664.png)
+
+
+
+## Notas
+
+A grandes rasgos así funciona un sistema de documentación con control de cambios por usuario con el sistema GIT que usa Github. Si bien puede parecer engorroso en la práctica no los es.
+
+Este es por lejos el sistema más utilizado en el mundo para control de versiones con documentación o desarrollo de código.
+
+Este sistema permite muchas más cosas, estas son las básicas.
 

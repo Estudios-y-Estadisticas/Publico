@@ -28,7 +28,7 @@ Para poder utilizar el sistema se deben seguir los siguientes pasos.
 
 Ir a [github.com](https://github.com/) y hacer clic en **Sign Up**, seguir los pasos. Una vez completado enviar el nombre de usuario a [estadisticas@fonasa.cl](#) para que se habilite el acceso al repositorio.
 
-El usuario queda asociado al nombre registrado, por ejemplo la cuenta en dónde se aloja la documentación es [github.com/Estudios-y-Estadisticas](https://github.com/Estudios-y-Estadisticas) en dónde el nombre de usuario es:
+El usuario queda asociado al nombre registrado, por ejemplo la cuenta en donde se aloja la documentación es [github.com/Estudios-y-Estadisticas](https://github.com/Estudios-y-Estadisticas) en dónde el nombre de usuario es:
 
 ```
 Estudios-y-Estadisticas
@@ -36,11 +36,11 @@ Estudios-y-Estadisticas
 
 ### Paso 2: Instalar Github Desktop
 
-Es necesario instalar el programa **Gihub Desktip** en el computador del usuario para que descargue una copia completa del repositorio que contiene la documentación y pueda interactuar con el respositorio . 
+Es necesario instalar el programa **Gihub Desktop** en el computador del usuario para clonar una copia completa del repositorio que contiene la documentación y pueda interactuar con el respositorio . 
 
 Se puede encontrar en: [https://desktop.github.com/](https://desktop.github.com/)
 
-Una vez instalado hay que registrar nuestra cuenta en el programa, se puede hacer en  
+Una vez instalado hay que asociar nuestra cuenta al programa, se puede hacer en  
  `Archivo > Opciones`
 
 ![image-20211103161851945](img/image-20211103161851945.png)
@@ -75,19 +75,19 @@ Si bien un repositorio puede almacenar cualquier tipo de archivo, los cambios **
 
 #### Markdown
 
-La documentación de este sistema será Markdown, que corresponde a archivos de texto plano que tienen un formato interno que permite visualizarlo como si fuera un archivo de Word (o casi).
+La documentación de este sistema usará *Markdown*, que corresponde a archivos de texto plano que tienen un formato interno que permite visualizarlo como si fuera un archivo de Word (o casi).
 
 > **Markdown** es un [lenguaje de marcado ligero](https://es.wikipedia.org/wiki/Lenguajes_de_marcas_ligeros) creado por [John Gruber](https://es.wikipedia.org/w/index.php?title=John_Gruber&action=edit&redlink=1) que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas  convenciones existentes para marcar mensajes de correo electrónico  usando texto plano [de *Wikipedia*]
 
 **Por ejemplo**: en Markdown para hacer las negritas se debe escribir doble asterisco alrededor de la palabra: `**negrita**` que se verá así: **Negrita**
 
-No es necesario escribir todas las veces los asteriscos porque el programa que usaremos permite muchos atajos del teclado o con su interfaz.
+No es necesario escribir todas las veces los asteriscos porque el programa que usaremos de edición tiene muchos atajos del teclado o con su interfaz.
 
 #### Typora
 
 Para editar documentos *Markdown* usaremos *Typora*, que se puede encontrar en [https://typora.io](https://typora.io#download) hay que descargar e instalar.
 
-> Antes de comenzar a editar documentos vamos a configurar algo muy importante relativo a las imágenes. Cuando peguemos una imagen en markdown no se guarda junto al archivo como un Word, sino que se almacena en un archivo y se accede a la imagen. Typora lo hace automático y hay que configurar algo para que así sea.
+> Antes de comenzar a editar documentos vamos a configurar algo muy importante relativo a las imágenes. Cuando peguemos una imagen en markdown no se guarda dentro del archivo como en un Word, sino que se almacena en un archivo y Markdown accede a la imagen. Typora lo hace automático y hay que configurar esto para que funcione bien.
 
 ![image-20211103164314792](img/image-20211103164314792.png)
 
@@ -96,6 +96,8 @@ Vamos a `Archivo > Preferencias...` tendremos que dejar la configuración tal cu
 ![image-20211103164422203](img/image-20211103164422203.png)
 
 Esto permite que al existir un documento de markdown en un el disco, Typora automáticamente creará la carpeta `./img` y guardará en ese lugar las imágenes que se peguen al documento y las dejará enlazadas.
+
+> Si se pega una imagen en un archivo *Markdown* nuevo que aun  no se ha guardado *Typora* no sabrá dónde crear la carpeta `img` y pondrá la ruta completa a la imagen y esto no se verá en Github
 
 #### Editar en Markdown
 
@@ -126,17 +128,17 @@ Iniciar el texto con `>`
 ---
 
 **Lineas de separación**   
-Como estas que se ven, basta con escribir 3 guiones y un enter `---`
+Como estas que se ven, basta con escribir 3 guiones y un Enter.  `--- + ENTER`
 
 ---
 
 **Lista con números**   
-SI se escribe un número y un punto `1.` al espacio siguiente se crea automático
+Si se escribe un número y un punto `1.` al espacio siguiente se crea automático
 
 1. Queda
 2. Así
 
-Para salir de la lista hay que apretar enter 2 veces
+Para salir de la lista hay que apretar Enter 2 veces
 
 ---
 
@@ -152,7 +154,7 @@ Varios `Enter` para ir saliendo de la lista
 ---
 
 **Código**   
-Hay dos formas de insertar código una forma es `en linea como este segmento` basta con seleccionar o apretar `CTRL + ñ` 
+Hay dos formas de insertar código, una forma es `en linea como este segmento` basta con seleccionar o apretar `CTRL + ñ` 
 
 También se puede agregar un bloque de código con `CTRL + K`
 
@@ -199,29 +201,19 @@ El índice o tabla de contenidos que está al costado izquierdo de *Typora* se p
 
 Y etc. Cualquier consulta hay muchisima ayuda en Internet. 
 
-Por ejemplo este es un diagrama en Mermaid, que github aun no implementa pero en el documento se puede visualizar. (si el proxy lo permite)
-
-~~~sequence
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
-~~~
-
-
-
 #### Flujo de trabajo
 
 En el día a día lo que hacemos es trabajar en la carpeta local en dónde clonamos el repositorio y vamos actualizando mediante *commit* y *push* el repositorio en Github.
 
 La estructura de la carpeta será la misma que en Github y para hacer links también se debe seguir la misma estructura.
 
+
+
 ### Paso 5: Commit y Push
 
-Ahora que ya creamos o editamos un documento en *Markdown* hay que subirlo a github. Cuando se edite un documento veremos que esos cambios se registran en **github desktop** con color rojo y con verde si son adiciones.
+Ahora que ya creamos o editamos un documento en *Markdown* hay que subirlo a github. Cuando se edite un documento veremos que esos cambios se muestran en **github desktop** con color rojo y con verde si son adiciones.
 
-En la barra lateral se indica si se agregaron modificaron o agregaron archivos. 
+En la barra lateral se indica si se agregaron o modificaron archivos. 
 
 ![image-20211103165229624](img/image-20211103165229624.png)
 
@@ -241,7 +233,7 @@ Lo siguiente es enviar nuestro *Commit* (con los cambios) a la linea de edición
 
 ![image-20211103165915161](img/image-20211103165915161.png)
 
-Si fuera necesario o no se hizo el push o algo pasó el boton de **Push orign** estará activado.
+Si fuera necesario o no se hizo el push o algo pasó, el boton de **Push orign** estará activado.
 
 ![image-20211103170041121](img/image-20211103170041121.png)
 
@@ -259,3 +251,6 @@ Este es por lejos el sistema más utilizado en el mundo para control de versione
 
 Este sistema permite muchas más cosas, estas son las básicas.
 
+### Importante
+
+Si hago cambios y no ejecuto el *Commit* y *Push* y otro usuario hace cambios y si hace el update en Github se podrían crear conflictos.

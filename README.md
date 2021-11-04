@@ -10,5 +10,5 @@ Disponibles los siguientes contenidos.
 
 Acceso a las instrucciones para usar el sistema de documentación del departamento, el cual se encuentra alojado en un repositorio privado.
 
-[Link a Instrucciones](.\)
+[Link a Instrucciones](https://github.com/Estudios-y-Estadisticas/Publico/blob/main/Instrucciones%20Documentacion.md)
 

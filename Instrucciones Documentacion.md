@@ -2,6 +2,10 @@
 
 Instrucciones para utilizar el sistema de documentación del departamento de Estudios y Estadísticas. Aquí se detallan los diversos procesos que se ejecutan en el departamento.
 
+Si quiere ver en PDF 
+
+[Aqui](https://github.com/Estudios-y-Estadisticas/Publico/blob/main/Instrucciones%20Documentacion.pdf) 
+
 ## Funcionamiento
 
 A grandes rasgos el sistema funciona de la siguiente forma:

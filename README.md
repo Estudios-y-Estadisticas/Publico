@@ -16,5 +16,5 @@ Acceso a las instrucciones para usar el sistema de documentación del departamen
 
 tgdgdgfgb 
 
-[Link a estudio](./Género)
+[Link a estudio](/Genero)
 

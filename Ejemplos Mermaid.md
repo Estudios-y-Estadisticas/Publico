@@ -1,3 +1,14 @@
+<table >
+<tbody>
+<tr>
+<td style="border: 1px solid red;"><img align="left" height="150" src="img/logofonasa.jpg"></td>
+<td style="border: 1px solid red;"><img align="right"  height="70" src="img/header.png"></td>
+</tr>
+</tbody>
+</table>
+
+
+
 # Ejemplos mermaid
 
 > **Estos diagramas se actualmente no se visualizan en `github.com`, pero dicen que se verán. De momento si se pueden ver en los documentos y en cuando se exporta a PDF.**

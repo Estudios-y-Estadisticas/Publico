@@ -4,17 +4,20 @@ Bienvenido al repositorio público del Departamento de Estudios y Estadísticas.
 
 ## Contenido
 
-Disponibles los siguientes contenidos.
+En el presente sitio se encuentran disponibles gráficos y tablas correspondiente al análisis realizado para el estudio *Efectos de la pandemia en la población beneficiaria 
+con perspectiva de género*. En él se observan los análisis en las siguientes dimensiones:
 
-### 1. Sistema de documentación
+### 1. Laboral
 
-Acceso a las instrucciones para usar el sistema de documentación del departamento, el cual se encuentra alojado en un repositorio privado.
+### 2. Sanitaria
 
-[Link a Instrucciones](https://github.com/Estudios-y-Estadisticas/Publico/blob/main/Instrucciones%20Documentacion.md)
+#### 2.1 Contagios, hospitalizaciones, fallecimientos y avance en la vacunación
 
-### 2. Género
+#### 2.2 Acceso a salud preventiva
 
-tgdgdgfgb 
+#### 2.3 Resolución de necesidades de salud (GES y no GES)
 
-[Link a estudio](/Genero)
+#### 2.4 Uso de licencias médicas
+
+
 

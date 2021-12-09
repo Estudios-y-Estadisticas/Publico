@@ -38,39 +38,49 @@ Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado
 
 **Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021)
 
-![](./02%20Situacion%20laboral/Participacion_Tasa.png)
+![](/02%20Situacion%20laboral/Participacion_Tasa.png)
 
 ---
 
 **Figura 2**: Población beneficiaria de Fonasa que entra y sale desde/hacia las Isapres (2019-2021)
 
-![](img/movimiento_N.png)
+![](01%20Evolucion%20de%20la%20poblacion%20beneficiaria/movimiento_N.png)
 
 ---
 
 **Figura 3**: Índice de feminidad del movimiento de la población por tipo de seguro (2018-2021)
 
-![aFonasa_fem](01 Evolucion de la poblacion beneficiaria/aFonasa_fem.png)
+![aFonasa_fem](01%20Evolucion%20de%20la%20poblacion%20beneficiaria/aFonasa_fem.png)
 
-![aIsapre_fem](01 Evolucion de la poblacion beneficiaria/aIsapre_fem.png)
+![aIsapre_fem](01%20Evolucion%20de%20la%20poblacion%20beneficiaria/aIsapre_fem.png)
 
 ---
 
+**Figura 4**: Población de Fonasa por sexo e índice de feminidad (2018-2021)
+
+![pobla_N](01 Evolucion de la poblacion beneficiaria/pobla_N.png)
+
+<img src="01 Evolucion de la poblacion beneficiaria/pobla_fem.png" alt="pobla_fem" style="zoom:80%;" />
 
 
 
 
-### 1. Laboral
 
-### 2. Sanitaria
 
-#### 2.1 Contagios, hospitalizaciones, fallecimientos y avance en la vacunación
 
-#### 2.2 Acceso a salud preventiva
 
-#### 2.3 Resolución de necesidades de salud (GES y no GES)
 
-#### 2.4 Uso de licencias médicas
+
+
+
+
+
+
+
+
+
+
+
 
 
 

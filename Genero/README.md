@@ -34,23 +34,27 @@ Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado
 
 ### 3.1 Dimensión laboral
 
-Figura 1: Tasa de participación laboral nacional por sexo (2018-2021)
+---
 
-![(./Participacion_Tasa.png)]
+**Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021)
 
+![](02 Situacion laboral/Participacion_Tasa.png)
 
+---
 
+**Figura 2**: Población beneficiaria de Fonasa que entra y sale desde/hacia las Isapres (2019-2021)
 
+![](img/movimiento_N.png)
 
+---
 
+**Figura 3**: Índice de feminidad del movimiento de la población por tipo de seguro (2018-2021)
 
+![aFonasa_fem](01 Evolucion de la poblacion beneficiaria/aFonasa_fem.png)
 
+![aIsapre_fem](01 Evolucion de la poblacion beneficiaria/aIsapre_fem.png)
 
-
-
-
-
-
+---
 
 
 

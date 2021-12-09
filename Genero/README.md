@@ -38,7 +38,7 @@ Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado
 
 **Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021)
 
-![]("02 Situacion laboral/Participacion_Tasa.png")
+![](/02 Situacion laboral/Participacion_Tasa.png)
 
 ---
 

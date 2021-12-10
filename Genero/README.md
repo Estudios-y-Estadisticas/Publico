@@ -13,6 +13,24 @@ Fonasa, 2021
 
 
 
+<table>
+<tbody>
+<tr>
+<td width="30%"><img src="logofonasa.jpg" alt="logofonasa" style="zoom:33%;" /></td>
+<td width="70%"><h1>Anexo: Informe de PMG Género - Medida 8
+
+​        
+    </h1>
+    </h1><p><strong>Efectos de la pandemia en la población beneficiaria con perspectiva de género</strong><br>
+Departamento de Estudios y Estadísticas<br>
+División desarrollo institucional<br>
+Fonasa, 2021</p></td>
+</tr>
+</tbody>
+</table>
+
+
+
 ## Cálculos
 
 En el presente repositorio se encuentran disponibles gráficos y tablas correspondiente al análisis realizado para el estudio *Efectos de la pandemia en la población beneficiaria con perspectiva de género*. Cada gráfico tiene un *link* asociado a un archivo de *Excel* con los datos **Originales** con los cuales se construyeron los indicadores. Al respecto existen 4 estadísticas principales.

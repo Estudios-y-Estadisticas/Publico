@@ -13,21 +13,19 @@ Fonasa, 2021
 
 
 
-<table>
+<table width="auto" border="0px">
 <tbody>
 <tr>
-<td width="30%"><img src="logofonasa.jpg" alt="logofonasa" style="zoom:33%;" /></td>
-<td width="70%"><h1>Anexo: Informe de PMG Género - Medida 8
-
-​        
-    </h1>
-    </h1><p><strong>Efectos de la pandemia en la población beneficiaria con perspectiva de género</strong><br>
+<td width="25%"><img src="logofonasa.jpg" alt="logofonasa" width="auto" /></td>
+<td width="75%"><h1>Anexo: Informe de PMG Género - Medida 8</h1>
+<p><strong>Efectos de la pandemia en la población beneficiaria con perspectiva de género</strong><br>
 Departamento de Estudios y Estadísticas<br>
 División desarrollo institucional<br>
 Fonasa, 2021</p></td>
 </tr>
 </tbody>
 </table>
+
 
 
 
@@ -209,4 +207,3 @@ Las librerías (principales) utilizadas son:
 <img src="06 Licencias/mental_media_fem.png" alt="mental_media_fem" style="zoom:25%;" />
 
 <hr style="height:1px">
-

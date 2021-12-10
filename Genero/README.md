@@ -51,11 +51,12 @@ Las librerías (principales) utilizadas son:
 
 ### Dimensión laboral
 
-<hr style="height:1px !important">
+<hr style="height:1px !important;">
+
 
 **Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021) [Datos](dataInforme/dataDes.xlsx?raw=true)
 
-<img src="02 Situacion laboral/Participacion_Tasa.png" style="zoom: 25%;" />
+<img src="02 Situacion laboral/Participacion_Tasa.png" style="zoom: 15%;" />
 
 <hr style="height:1px !important">
 

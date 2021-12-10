@@ -51,15 +51,12 @@ Las librerías (principales) utilizadas son:
 
 ### Dimensión laboral
 
-<hr style="height:1px !important;">
-
 
 **Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021) [Datos](dataInforme/dataDes.xlsx?raw=true)
 
-<img src="02 Situacion laboral/Participacion_Tasa.png" style="zoom: 15%;" />
+<img src="02 Situacion laboral/Participacion_Tasa.png" style="max-width: 70%" />
 
 <hr style="height:1px !important">
-
 **Figura 2**: Población beneficiaria de Fonasa que entra y sale desde/hacia las Isapres (2019-2021) [Acceso a Datos](dataInforme/ ?raw=true)
 
 <img src="01%20Evolucion%20de%20la%20poblacion%20beneficiaria/movimiento_N.png" style="zoom: 25%;" />

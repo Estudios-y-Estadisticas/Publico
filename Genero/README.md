@@ -1,18 +1,3 @@
-<img align="left" src="logofonasa.jpg" alt="logofonasa" style="zoom:33%;" />
-
-# Anexo: Informe de PMG Género - Medida 8
-
-**Efectos de la pandemia en la población beneficiaria con perspectiva de género**   
-Departamento de Estudios y Estadísticas    
-División desarrollo institucional   
-Fonasa, 2021
-
-<br>
-
-<br>
-
-
-
 <table width="auto" border="0px">
 <tbody>
 <tr>
@@ -25,8 +10,6 @@ Fonasa, 2021</p></td>
 </tr>
 </tbody>
 </table>
-
-
 
 
 ## Cálculos

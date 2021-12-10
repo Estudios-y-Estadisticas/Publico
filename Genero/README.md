@@ -51,26 +51,28 @@ Las librerías (principales) utilizadas son:
 
 ### Dimensión laboral
 
-
-**Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021) [Datos](dataInforme/dataDes.xlsx?raw=true)
+**Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021)     
+[Acceso a Datos](dataInforme/02_dataDes.xlsx?raw=true)
 
 <img src="02 Situacion laboral/Participacion_Tasa.png" style="max-width:70% !important" />
 
 <hr style="height:1px !important">
-**Figura 2**: Población beneficiaria de Fonasa que entra y sale desde/hacia las Isapres (2019-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 2**: Población beneficiaria de Fonasa que entra y sale desde/hacia las Isapres (2019-2021)    
+[Acceso a Datos Entrada](dataInforme/01_data2Fonasa.xlsx?raw=true)   
+[Acceso a Datos Salida](dataInforme/01_data2Isapres.xlsx?raw=true)
 
-<img src="01%20Evolucion%20de%20la%20poblacion%20beneficiaria/movimiento_N.png" style="zoom: 25%;" />
+<img src="01 Evolucion de la poblacion beneficiaria/movimiento_N.png" style="zoom: 25%;" />
 
 <hr style="height:1px !important">
+**Figura 3**: Índice de feminidad del movimiento de la población por tipo de seguro (2018-2021)   
+[Acceso a Datos a Fonasa](dataInforme/01_data2Fonasa.xlsx?raw=true)   
+[Acceso a Datos a Isapre](dataInforme/01_data2Isapres.xlsx?raw=true)
 
-**Figura 3**: Índice de feminidad del movimiento de la población por tipo de seguro (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
-
-<img src="01%20Evolucion%20de%20la%20poblacion%20beneficiaria/aFonasa_fem.png" alt="aFonasa_fem" style="zoom: 25%;" />
+<img src="01 Evolucion de la poblacion beneficiaria/aFonasa_fem.png" alt="aFonasa_fem" style="zoom: 25%;" />
 
 <img src="01%20Evolucion%20de%20la%20poblacion%20beneficiaria/aIsapre_fem.png" alt="aIsapre_fem" style="zoom: 25%;" />
 
 <hr style="height:1px !important">
-
 **Figura 4**: Población de Fonasa por sexo e índice de feminidad (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
 
 <img src="01 Evolucion de la poblacion beneficiaria/pobla_N.png" alt="pobla_N" style="zoom: 25%;" />

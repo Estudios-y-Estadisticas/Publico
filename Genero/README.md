@@ -7,6 +7,10 @@ Departamento de Estudios y Estadísticas
 División desarrollo institucional   
 Fonasa, 2021
 
+
+
+
+
 ## Cálculos
 
 En el presente repositorio se encuentran disponibles gráficos y tablas correspondiente al análisis realizado para el estudio *Efectos de la pandemia en la población beneficiaria con perspectiva de género*. Cada gráfico tiene un *link* asociado a un archivo de *Excel* con los datos **Originales** con los cuales se construyeron los indicadores. Al respecto existen 4 estadísticas principales.

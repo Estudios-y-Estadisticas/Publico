@@ -76,7 +76,8 @@ Las librerías (principales) utilizadas son:
 
 ----
 
-**Figura 4**: Población de Fonasa por sexo e índice de feminidad (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 4**: Población de Fonasa por sexo e índice de feminidad (2018-2021)  
+[Acceso a Datos](dataInforme/01_dataPersonas.xlsx?raw=true)
 
 <img src="01 Evolucion de la poblacion beneficiaria/pobla_N.png" alt="pobla_N" style="zoom: 25%;" />
 
@@ -84,7 +85,8 @@ Las librerías (principales) utilizadas son:
 
 ----
 
-**Figura 5**: Cotizante de Fonasa por sexo (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 5**: Cotizante de Fonasa por sexo (2018-2021)   
+[Acceso a Datos](dataInforme/02_dataCot.xlsx?raw=true)
 
 <img src="02 Situacion laboral/cotiza_N.png" alt="cotiza_N" style="zoom: 25%;" />
 
@@ -92,40 +94,51 @@ Las librerías (principales) utilizadas son:
 
 ### Dimensión sanitaria
 
-**Figura 6**: Casos confirmados de Covid-19 por 1000 beneficiarios/as por sexo (marzo 2020 – septiembre 2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 6**: Casos confirmados de Covid-19 por 1000 beneficiarios/as por sexo (marzo 2020 – septiembre 2021)    
+[Acceso a Datos](dataInforme/03_dataCovid.xlsx?raw=true)   
+[Datos poblacion para tasas](dataInforme/03_dataPoblaTasas.xlsx?raw=true) 
 
 <img src="03 contagio hospi fallec vacuna/covid_tasa.png" alt="covid_tasa" style="zoom: 25%;" />
 
 ----
-**Figura 7**: Tasa de hospitalizaciones por 1000 beneficiarios/as por sexo (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 7**: Tasa de hospitalizaciones por 1000 beneficiarios/as por sexo (2018-2021)    
+[Acceso a Datos](dataInforme/03_dataEgreso.xlsx?raw=true)   
+[Datos poblacion para tasas](dataInforme/03_dataPoblaTasas.xlsx?raw=true) 
 
 <img src="03 contagio hospi fallec vacuna/egreso_tasa_total-covid.png" alt="egreso_tasa_total-covid" style="zoom:25%;" />
 
 ----
 
-**Figura 8**: Tasa de hospitalizaciones Covid-19 por 1000 beneficiarios/as por sexo (marzo 2020 – septiembre 2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 8**: Tasa de hospitalizaciones Covid-19 por 1000 beneficiarios/as por sexo (marzo 2020 – septiembre 2021)    
+[Acceso a Datos](dataInforme/03_dataEgreso.xlsx?raw=true)    
+[Datos poblacion para tasas](dataInforme/03_dataPoblaTasas.xlsx?raw=true) 
 
 
 <img src="03 contagio hospi fallec vacuna/EgresoCovid_tasa.png" alt="EgresoCovid_tasa" style="zoom:25%;" />
 
 ----
 
-**Figura 9**: Defunciones por Covid-19 por 1000 beneficiarios/as por sexo (marzo 2020 – septiembre 2021) [Acceso a Datos](dataInforme/ ?raw=true)
-
+**Figura 9**: Defunciones por Covid-19 por 1000 beneficiarios/as por sexo (marzo 2020 – septiembre 2021)    
+[Acceso a Datos](dataInforme/03_dataDefuncion.xlsx?raw=true)   
+[Datos poblacion para tasas](dataInforme/03_dataPoblaTasas.xlsx?raw=true) 
 
 <img src="03 contagio hospi fallec vacuna/defuncion_tasa_covid.png" alt="defuncion_tasa_covid" style="zoom:25%;" />
 
 ----
 
-**Figura 10**: Defunciones por otras causas por 1000 beneficiarios/as por sexo (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 10**: Defunciones por otras causas por 1000 beneficiarios/as por sexo (2018-2021)    
+[Acceso a Datos](dataInforme/03_dataDefuncion.xlsx?raw=true)   
+[Datos poblacion para tasas](dataInforme/03_dataPoblaTasas.xlsx?raw=true) 
 
 
 <img src="03 contagio hospi fallec vacuna/defuncion_tasa_NOcovid.png" alt="defuncion_tasa_NOcovid" style="zoom: 25%;" />
 
 ----
 
-**Figura 11**: Porcentaje de beneficiarios/as vacunados contra el Covid-19 por sexo, edad y mes [Acceso a Datos](dataInforme/ ?raw=true)
-
+**Figura 11**: Porcentaje de beneficiarios/as vacunados contra el Covid-19 por sexo, edad y mes   
+[Datos 18-29](dataInforme/03_edad1.xlsx?raw=true)   
+[Datos 30-59](dataInforme/03_edad2.xlsx?raw=true)   
+[Datos >60](dataInforme/03_edad3.xlsx?raw=true)
 
 <img src="03 contagio hospi fallec vacuna/vacuna_TasaAcu_18-29.png" alt="vacuna_TasaAcu_18-29" style="zoom:25%;" />
 
@@ -137,22 +150,23 @@ Las librerías (principales) utilizadas son:
 
 ### Acceso a Salud Preventiva
 
-
-**Figura 12**: Evolución de examen de Papanicolau realizados (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 12**: Evolución de examen de Papanicolau realizados (2018-2021)    
+[Acceso a Datos](dataInforme/04_dataPap.xlsx?raw=true)
 
 <img src="04 DEIS Medicina preventiva/papN.png" alt="papN" style="zoom:25%;" />
 
 ----
 
-**Figura 13**: Evolución de examen de Mamografía realizados (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 13**: Evolución de examen de Mamografía realizados (2018-2021)    
+[Acceso a Datos](dataInforme/04_dataMamo.xlsx?raw=true)
 
 
 <img src="04 DEIS Medicina preventiva/mamoN.png" alt="mamoN" style="zoom:25%;" />
 
 ----
 
-**Figura 14**: Evolución de Examen de Medicina Preventiva realizados por 1000 beneficiarios/as (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
-
+**Figura 14**: Evolución de Examen de Medicina Preventiva realizados por 1000 beneficiarios/as (2018-2021) 
+[Acceso a Datos](dataInforme/04_dataEmp_Tasa.xlsx?raw=true)
 
 <img src="04 DEIS Medicina preventiva/emp_tasa.png" alt="emp_tasa" style="zoom:25%;" />
 
@@ -160,7 +174,8 @@ Las librerías (principales) utilizadas son:
 
 ### Resolución de necesidades de salud (GES y no GES)
 
-**Figura 15**: Tasa de Garantías activas y retrasadas por sexo por mil beneficiarios/as (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 15**: Tasa de Garantías activas y retrasadas por sexo por mil beneficiarios/as (2018-2021)    
+[Acceso a Datos](dataInforme/05_dataGesTasa.xlsx?raw=true)
 
 <img src="05 Ges y no ges/gesAbiertoRetrasado_tasa.png" alt="gesAbiertoRetrasado_tasa" style="zoom:25%;" />
 
@@ -170,7 +185,11 @@ Las librerías (principales) utilizadas son:
 
 ----
 
-**Figura 16**: Personas que entraron a la lista de espera no GES por sexo (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 16**: Personas que entraron a la lista de espera no GES por sexo (2018-2021)   
+[Acceso a Datos](dataInforme/05_noges_entradas_2.xlsx?raw=true)   
+[Datos poblacion para tasa](dataInforme/05_dataPobla.xlsx?raw=true)
+
+
 
 
 <img src="05 Ges y no ges/NoGes_entradas_N.png" alt="NoGes_entradas_N" style="zoom:25%;" />
@@ -179,7 +198,9 @@ Las librerías (principales) utilizadas son:
 
 ----
 
-**Figura 17**: Lista de espera no GES por sexo y tipo de prestación (2019-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 17**: Lista de espera no GES por sexo y tipo de prestación (2019-2021)   
+[Acceso a Datos](dataInforme/05_noges_espera.xlsx?raw=true)   
+[Datos poblacion para tasa](dataInforme/05_dataPobla.xlsx?raw=true)
 
 
 <img src="05 Ges y no ges/NoGes_espera_N_prestacion.png" alt="NoGes_espera_N_prestacion" style="zoom:25%;" />
@@ -190,7 +211,11 @@ Las librerías (principales) utilizadas son:
 
 ### Uso de Licencias Médicas
 
-**Figura 18**: Evolución de Licencias Médicas relacionadas al Covid-19 (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 18**: Evolución de Licencias Médicas relacionadas al Covid-19 (2018-2021)    
+[Acceso a Datos totales](dataInforme/06_lm_acumulado.xlsx?raw=true)  
+[Acceso a Datos Covid](dataInforme/06_lm_covid.xlsx?raw=true)
+
+
 
 <img src="06 Licencias/stackLM.png" alt="stackLM" style="zoom:25%;" />
 
@@ -198,7 +223,8 @@ Las librerías (principales) utilizadas son:
 
 ----
 
-**Figura 19**: Evolución de Licencias Médicas de salud mental (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 19**: Evolución de Licencias Médicas de salud mental (2018-2021)   
+[Acceso a Datos](dataInforme/06_lm_mentalTipo.xlsx?raw=true)
 
 
 <img src="06 Licencias/mental_n.png" alt="mental_n" style="zoom:25%;" />
@@ -207,7 +233,8 @@ Las librerías (principales) utilizadas son:
 
 ----
 
-**Figura 20**: Evolución de Licencias Médicas de salud mental (2018-2021) [Acceso a Datos](dataInforme/ ?raw=true)
+**Figura 20**: Evolución de Licencias Médicas de salud mental (2018-2021)   
+[Acceso a Datos](dataInforme/06_lm_mentalTipo.xlsx?raw=true)
 
 
 <img src="06 Licencias/mental_media.png" alt="mental_media" style="zoom:25%;" />

@@ -1,44 +1,56 @@
-### Anexo:
+<img align="left" src="logofonasa.jpg" alt="logofonasa" style="zoom:33%;" />
 
-# Informe de PMG Género - Medida 8
+# Anexo: Informe de PMG Género - Medida 8
 
-**Efectos de la pandemia en la población beneficiaria con perspectiva de género**
+**Efectos de la pandemia en la población beneficiaria con perspectiva de género**   
+Departamento de Estudios y Estadísticas    
+División desarrollo institucional   
+Fonasa, 2021
 
-Departamento de Estudios y Estadísticas
+## Cálculos
 
-## Contenido
+En el presente repositorio se encuentran disponibles gráficos y tablas correspondiente al análisis realizado para el estudio *Efectos de la pandemia en la población beneficiaria con perspectiva de género*. Cada gráfico tiene un *link* asociado a un archivo de *Excel* con los datos **Originales** con los cuales se construyeron los indicadores. Al respecto existen 4 estadísticas principales.
 
-En el presente sitio se encuentran disponibles gráficos y tablas correspondiente al análisis realizado para el estudio *Efectos de la pandemia en la población beneficiaria con perspectiva de género*
+- **Recuentos**: Corresponde a la número total de sujetos para un grupo y/o período determinado
 
-Se adjunta cada gráfico un *link* a un archivo de *Excel* con los datos **Originales** con los cuales se construyeron los indicadores. Al respecto existen 4 estadísticas principales.
+- **Indice de feminidad a partir de recuentos**: Corresponde a la división del recuento (N) de mujeres por el recuento de hombres con base 100. Global o por grupo según corresponda
 
-### Recuentos
+- **Tasas**: Expresada como N x 1000, corresponde a la cantidad de hombres o mujeres, divido por el total de la población Fonasa para el período y/o grupo correspondiente.
 
-Corresponde a la recuento total de sujetos para un grupo y período determinado
+- **Indice de feminidad a partir de tasas**: Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado con base 100. Global o por grupo según corresponda.
 
-### Indice de feminidad a partir de recuentos
+Para el **cálculo de tasas** y sus derivados se debe contar con los datos del indicador y además de los datos de población para cada mes y/o grupo que corresponda.
 
-Corresponde a la división del recuento (N) de mujeres por el recuento de hombres con base 100. Global o por grupo según corresponda
+> Los datos deberán estar en formato longitudinal para un correcto desarrollo informático.
 
-### Tasas
+## Desarrollo informático
 
-Expresada como N x 1000, corresponde a la cantidad de hombres o mujeres, divido por el total de la población Fonasa para el período y/o grupo determinado.
+Todo el proceso fue desarrollado y programado en **lenguaje R**, el cual permite automatizar la mayoría de las tareas relativas a los cálculos y construcción gráfica, en este contexto las principales características son:
 
-### Indice de feminidad a partir de tasas
+1. Los datos de entrada deben todos tener el mismo formato
+2. Los cálculos (antes explicados) son siempre iguales lo cual limita el error
+3. Una vez validados los algoritmos de cálculo se pasa la data de entrada directamente al gráfico, no hay productos intermedios.
 
-Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado con base 100. Global o por grupo según corresponda.
+> Contar con un sistema que tiene una **entrada** (datos) y una **salida** (gráfico) sin la producción de elementos intermedios reduce errores, permite replicar y modificar de manera sencilla y por sobre todo deja el sistema disponible para otro período, sin la necesidad de construir todo desde cero.
+
+Las librerías (principales) utilizadas son:
+
+- `ggplot2` para los gráficos
+- `data.table` para el data management
+- `stringr` para el tratamiento de texto
+- `ROracle` para conectar **R** a las bases de datos de Fonasa
 
 -----
 
-## 3. Impacto en la población de fonasa
+## Gráficos y fuentes de datos
 
-### 3.1 Dimensión laboral
+### Dimensión laboral
 
 ---
 
-**Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021)
+**Figura 1**: Tasa de participación laboral nacional por sexo (2018-2021) [Datos](dataInforme/dataDes.xlsx)
 
-<img src="02%20Situacion%20laboral/Participacion_Tasa.png" style="zoom: 25%;" />
+<img src="02 Situacion laboral/Participacion_Tasa.png" style="zoom: 25%;" />
 
 ---
 
@@ -70,7 +82,7 @@ Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado
 
 <hr style="height:1px">
 
-### 3.2 Dimensión sanitaria
+### Dimensión sanitaria
 
 **Figura 6**: Casos confirmados de Covid-19 por 1000 beneficiarios/as por sexo (marzo 2020 – septiembre 2021)
 
@@ -111,6 +123,7 @@ Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado
 <img src="03 contagio hospi fallec vacuna/vacuna_TasaAcu_60mas.png" alt="vacuna_TasaAcu_60mas" style="zoom:25%;" />
 
 <hr style="height:1px">
+### Acceso a Salud Preventiva
 
 **Figura 12**: Evolución de examen de Papanicolau realizados (2018-2021)
 
@@ -183,3 +196,4 @@ Corresponde a la división entre la tasa (Nx1000) de hombres y mujeres expresado
 <img src="06 Licencias/mental_media_fem.png" alt="mental_media_fem" style="zoom:25%;" />
 
 <hr style="height:1px">
+

@@ -45,6 +45,14 @@ Las librerías (principales) utilizadas son:
 - `stringr` para el tratamiento de texto
 - `ROracle` para conectar **R** a las bases de datos de Fonasa
 
+## Archivos
+
+Cada gráfico conduce a una imagen en alta resolución.
+
+Cada gráfico tiene asociado los datos de entrada para su construcción y permiten replicar (de manera sencilla) todos los valores asociados a los gráficos
+
+
+
 ----
 
 ## Gráficos y fuentes de datos

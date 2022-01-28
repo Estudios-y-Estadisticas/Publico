@@ -179,7 +179,7 @@ En [ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/](http
 
 ### Typora
 
-Para editar documentos usaremos Typora, que se puede encontrar en este [link](/Software/typora-update-x64-1117.exe). Una vez instalado tenemos que configurar el tratamiento de las imágenes, es decir, para que podamos copiar una imagen y pegarla directo al documento o arrastrarla si tenemos un archvio de imagen.
+Para editar documentos usaremos Typora, que se puede encontrar en este [link](https://github.com/Estudios-y-Estadisticas/Publico/raw/main/Software/typora-update-x64-1117.exe). Una vez instalado tenemos que configurar el tratamiento de las imágenes, es decir, para que podamos copiar una imagen y pegarla directo al documento o arrastrarla si tenemos un archvio de imagen.
 
 **Configurar las imagenes**
 

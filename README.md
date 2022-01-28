@@ -14,9 +14,11 @@ Bienvenido al repositorio público del Departamento de Estudios y Estadísticas.
 
 ## Enlaces importantes
 
-**[Flujo de trabajo en Github](/flujo_trabajo.md)**: descripción de cómo es el flujo de trabajo en Github
+**[Intrucciones para instalar todo](/Software/instrucciones.md)**: descripción de todo lo necesario para poder trabajar con este respositorio y con el sistema de control de versiones de Github.com
 
-**[Intrucciones para instalar todo](/instrucciones.md)**: descripción de todo lo necesario para poder trabajar con este respositorio y con el sistema de control de versiones de Github.com
+**[Flujo de trabajo en Github](/Software/flujo_trabajo.md)**: descripción de cómo es el flujo de trabajo en Github
+
+
 
 ## Contenido
 
